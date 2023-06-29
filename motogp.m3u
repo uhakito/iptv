@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Moto GP HD
+http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/327539.ts
+#EXTINF:-,Moto GP SD
+http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/327535.ts
