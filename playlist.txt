@@ -1,0 +1,1 @@
+[{"title":"ftv","file":"https://raw.githubusercontent.com/uhakito/iptv/main/ftv.m3u8"}]
